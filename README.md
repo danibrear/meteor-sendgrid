@@ -6,11 +6,11 @@ Sendgrid for Meteor
 ### Setup Sendgrid (if you haven't done so already)
 
 * Visit [Sendgrid](http://sendgrid.com) and create an account.
-* Navigate to *Account Settings* and look at the lower right corner for *Manage Multiple User Credentials* and click it.
-* Click *Add New Credential*
-* Create a name and a password *(this will be your sendgrid username and password)*
-* Select *API* and *Mail* checkboxes
-* Click *Create Credential*
+* Navigate to **Account Settings** and look at the lower right corner for **Manage Multiple User Credentials** and click it.
+* Click **Add New Credential**
+* Create a name and a password **(this will be your sendgrid username and password)**
+* Select **API** and **Mail** checkboxes
+* Click **Create Credential**
 * Fill in the usage below.
 
 ### Usage
