@@ -1,0 +1,9 @@
+{
+    "name": "sendgrid",
+    "description": "Wrapper for configuring and easily sending emails using Sendgrid.",
+    "homepage": "https://github.com/DavidBrear/meteor-sendgrid",
+    "author": "David Brear",
+    "version": "0.9.0",
+    "git": "https://github.com/DavidBrear/meteor-sendgrid.git",
+    "packages": {}
+}
